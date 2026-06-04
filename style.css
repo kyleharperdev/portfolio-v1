@@ -16,7 +16,6 @@
     --color-border:    #242424;
     --color-text:      #f0f0f0;
     --color-muted:     #666666;
-    --color-accent:    #f0f0f0;
 
     /* Typography */
     --font-display: 'Urbanist', sans-serif;
@@ -342,7 +341,7 @@ a {
 }
 
 .project-card__tag {
-    font-size: 11px;
+    font-size: 12px;
     color: var(--color-muted);
     letter-spacing: 0.06em;
     text-transform: uppercase;
@@ -400,7 +399,7 @@ a {
     grid-template-columns: 1fr 1.5fr;
     gap: 80px;
     align-items: start;
-    padding: var(--section-padding);
+    padding: 0;
 }
 
 .about__right {
@@ -440,7 +439,6 @@ a {
     flex-direction: column;
     align-items: center;
     text-align: center;
-    padding: 40px 0;
 }
 
 .contact__title {
@@ -520,7 +518,7 @@ a {
     .about {
         grid-template-columns: 1fr;
         gap: 40px;
-        padding: 80px 20px;
+        padding: 0;
     }
 
     .about .section__title {
