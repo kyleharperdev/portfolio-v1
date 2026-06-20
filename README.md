@@ -3,7 +3,7 @@
 A clean, dark minimal portfolio site built to showcase my frontend development projects.
 ## Live Site
 
-(https://asklfxue.github.io/portfolio-v1/)
+(https://kyleharperdev.github.io/portfolio-v1/)
 
 ## Built With
 
